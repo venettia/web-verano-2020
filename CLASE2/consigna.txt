@@ -1,0 +1,20 @@
+crear 4 páginas (index.html, login.html, registro.html, contacto.html)
+
+    index.html (principal)
+    Contacto (nombre y apellido, correo y un comentario y boton de enviar)
+    Login : (email, password)
+    Registro (Nombre, apellido, telefono, contraseña, fecha de nacimiento, sexo)
+
+    <a href="" target="new()">
+        <img src="">
+    </a>
+    
+
+    <img src="link.jpg|gif|png" width="200px" height="300px">
+
+
+    <a href="contacto.html">
+        <img src="ruta" width="100px" height="100px">
+    </a>
+
+    <a href="index.html"><button type="button">Enviar</button></a>

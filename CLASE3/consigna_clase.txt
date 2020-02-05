@@ -1,0 +1,7 @@
+Los estilos deben estar incluidos dentro de clases en el codigo CSS
+
+Dentro del archivo index.html 
+    Todas las estructuras deben estar dentro de cajas (div)
+    Los elementos (párrafo, titulos de nivel, span, etc) deben tener estilos relacionados a las fuentes, colores definidos, subrayados, bordes, etc
+    Las imagenes que conectan las páginas deben ser reemplazadas por botones con estilos (fondo, borde redondeado, color, tipografia, etc)
+    La página principal debe tener un color de fondo

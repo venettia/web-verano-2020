@@ -1,0 +1,101 @@
+﻿Pàginas de interes : 
+https://www.w3schools.com/
+stackoverflow (documentacion + ofertas laborales)
+github.com
+
+-----------------------------------------------------------
+
+Red habilitada solo para PC
+red : open_wrt
+clave : multiutn
+Clases online : 
+
+https://github.com/dileofrancoj/web-verano-2020
+
+Franco Di Leo : dileo.francoj@gmail.com
+Jon Gibaut: jongibaut@gmail.com
+
+Ingrid Kitainik :D
+mail de contacto : linkmultimedial@gmail.com
+Cantidad màxima de faltas : 6
+WP : 1157632882
+
+TECNOLOGIAS : 
+
+HTML5 + CSS3 (VISUAL)
+
+------------------------------------------------------------
+freelancer.com
+https://www.workana.com/es
+------------------------------------------------------------
+
+Frontend  + Backend
+
+Herramientas : 
+    1. HTML
+    2. HTML
+    3. HTML
+    4. CSS (hojas de estilo en cascada) -> fondos, colores, disposiciòn 
+    5. CSS
+    6. FLEXBOX (CSS --> ESTRUCTURA)
+    7. Bootstrap v4
+    8. Bootstrap 
+    9. Bootstrap
+    10. Javascript (programaciòn)
+    11. Javascript ()
+    12. JS
+    13. JS
+    14. MySQL (bases de datos relacionales)
+    15. MySQL 
+    
+    Backend
+    16. NodeJS (back)
+    17.
+    .
+    .
+    22 NodeJS
+    23 Angular
+    24 Angular
+    25 Angular
+
+Fecha de fin de curso : 13/03
+Proyecto final : 13/03 - 31/03 (puede ser grupal)
+    --> Entregar un sitio web
+        --> 4 pàginas (contacto (mail), descripcion)
+            (Foro)
+        --> 4 funcionalidades (mail, registro de usuarios, ingreso de usuarios, e-shop, PDF)
+        --> Grafica (logo) --> canvas
+
+
+------------------------------------------------------------
+Servidor : PC VIRTUAL
+
+Amazon --> Servidor 
+
+Azure --> Servidor
+Heroku --> Servidor
+
+Cliente : Navegador que hace una peticiòn al server
+-------------------------------------------------------------
+IP : Una Direcciòn que identifica de forma logica o jerarquica a un equipo conectado a la red ()
+DNS : Sistema de nombre de dominio (google.com.ar --> 216.58.202.35)
+PUERTO WEB : 80, 443 (SSH)
+
+--------------------------------------------------------------
+Javascript
+MySQL
+TypeScript (Microsoft) --> Visual Studio Code
+
+Programas a instalar
+    Editores 
+    --> Sublime Text 3 (HTML, CSS, NODE)
+    --> Visual Studio https://code.visualstudio.com/
+    --> Notepad++
+
+    GIT https://git-scm.com/downloads
+
+    Servidores
+    XAMPP / WAMP / MAMP / LAMP https://www.apachefriends.org/es/index.html
+
+    NodeJS --> https://nodejs.org/es/
+

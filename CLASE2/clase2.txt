@@ -1,0 +1,33 @@
+github.com/dileofrancoj/web-verano-2020
+Los elementos de un formulario van dentro de la etiqueta form (grupo)
+    inputs :
+        text : caracteres alfanumericos
+        password : oculta el contenido
+        number : solo numeros
+        email : alfanumericos (comprobacion)
+        checkbox : 
+        radio : 
+        file : Subir contenido multimedia
+        color : Elegir un color especifico
+        date : dd/mm/yyyy
+        month : mes , año
+        tel : <input type="tel" value="1144412312">
+        address : Dirección
+    textarea
+        rows (alto), cols (ancho)
+    
+    select
+        <select>
+            <option>Valor1 ...</option>
+        </select>
+    button
+        submit : envia
+        reset : limpia
+        button : sin funcion asociada
+    Atributos : 
+        alfanumericos : maxlength ,minlength
+        required
+        placeholder
+        value
+
+Javascript : Lenguaje de programación : Orientado a eventos (focus, blur, click dblclick, onkeypress, onkeyup)

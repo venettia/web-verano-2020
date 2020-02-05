@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <!-- La información del form se envia a x lugar (servidor) -->
+    <!-- /registrarse -->
+    <!-- action : determina donde se enviará la información del formulario -->
+    <!-- VERBOS HTTP : GET , POST ,PUT , DELETE -->
+    <!-- method : GET (la información se envia por la url), POST (interno al servidor) -->
+
+    <!-- 
+
+        /registro -> registrar un usuario
+        /contacto -> mandar un correo
+        /login -> login
+
+     -->
+
+    <form  action="/CONTACTO" method="POST">
+
+        <input name="mail_personal" type="email" placeholder="example@gmail.com" >
+        <br>
+        <input type="email" placeholder="example2@ejemplo.com" name="mailPersona">
+
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>

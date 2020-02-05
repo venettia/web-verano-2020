@@ -1,0 +1,107 @@
+
+<!-- Ja -->
+<html lang="es">
+    <!-- definición de idioma dentro de etiqueta html con atributo lang -->
+
+    <head>
+        <!-- Dentro del head va la informacion de configuracion (idioma), palabras claves de busqueda, etc -->
+        <!-- etiquetas meta : no tienen cierre -->
+        <!-- metaetiquetas : son etiquetas html de configuración -->
+        <!-- son etiquetas de configuracion internas al navegador -->
+        <meta charset="utf-8">
+        <title>
+            Titulo de la página
+        </title>
+    </head>    
+    <body>
+
+        <!-- input : ingreso de datos del usuario -->
+        <!-- texto -->
+        <!-- src : imagenes, href : Hipervinculos, target ,  -->
+        <h3>Inputs HTML5</h3>
+    
+    <form>
+
+            <!-- por default el required es true -->
+            <h5>Nombre *</h5>
+            <input type="text" required placeholder="nombre" maxlength="10" minlength="2">
+            <br> 
+            <!-- el atributo value es un valor fijo dentro del input -->
+            <h5>Apellido *</h5>
+            <input type="text" required placeholder="apellido">
+            <br>
+            <!-- <br> : break -->
+            <input type="number" placeholder="25" min="18" max="100">
+            <hr>
+            <h4>Más inputs</h4>
+            <!-- email : verificacion de @ y de . -->
+
+            <input type="email" required="true" placeholder="ejemplo@gmail.com">
+            <br>
+            <!-- oculta el contenido escrito por el usuario -->
+            <input type="password" placeholder="************************">
+
+            <!-- button -->
+            <!-- fecha de cumpleaños, caja de comentarios, nacionalidad, color favorito, genero -->
+            <!-- genera un calendario dentro de un input -->
+            <!-- seleccion de dia , mes y año -->
+            <h5>Fecha de nacimiento</h5>
+            <input type="date">
+            <!-- seleccion de mes y año -->
+            <h5>Mes y año nacimiento</h5>
+            <input type="month">
+            <hr>
+            <h5>Fecha de nacimiento con desplegables D:</h5>
+            <!-- select -->
+            <select>
+                <!-- estructuras repetitivas -->
+                <option>2002</option>
+                <option>2001</option>
+                <option>2000</option>
+                <option>1930</option>
+
+            </select>
+
+            <select>
+
+                <!-- vacio -->
+                <option>Enero</option>
+                <option>Febrero</option>
+            </select>
+
+            <h5>Comentario</h5>
+            <!-- caja de comentarios : textarea : ancho, alto-->
+            <textarea rows="10" cols="20" placeholder="comentario de registro"></textarea>
+
+            <input type="color">
+            <br>
+            <h5>Genero</h5>
+
+            <select multiple>
+                <option>Fem</option>
+                <option>Masc</option>
+                <option>Otro</option>
+            </select>
+            <br>
+            <input type="radio">Femenino
+            <input type="radio">Masc
+            <input type="radio">Otro
+            <br>
+            <input type="checkbox">
+            <br>
+            <h5>Contenido multimedia</h5>
+            <!-- Subir contenido multimedia :  -->
+            <input type="file">
+            <h5>Tipos de botones : </h5>
+            <!-- submit : Envia los datos al servidor : Genera un paquete de datos y los envia a la direccion especificada -->
+            <!-- Limpia el contenido de un formulario -->
+            <!-- por default el button tiene en el atributo type el valor submit -->
+            <button>Registrarme</button>
+            <!-- Por default no tiene una accion asociada -->
+            <button type="button">Boton sin accion asociada</button>
+            <button type="reset">Limpiar</button>
+        </form>
+        
+
+    </body>
+</html>
